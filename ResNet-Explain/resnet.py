@@ -93,7 +93,7 @@ class ResNet18(nn.Module):
 
 
 
-# --- Make ResNet18
+# --- Make ResNet34
 class ResNet34(nn.Module):
   def __init__(self):
     super().__init__()
